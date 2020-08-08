@@ -1,9 +1,9 @@
 ﻿{
-	"version": 1585945716,
+	"version": 1596908519,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
-		"jquery-2.1.1.min.js",
+		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/background-sheet0.png",
 		"images/chão.png",
@@ -45,7 +45,6 @@
 		"images/titulo-sheet0.png",
 		"images/btnfase-sheet0.png",
 		"images/btnfase-sheet1.png",
-		"images/btnfase-sheet2.png",
 		"images/seleção-sheet0.png",
 		"images/haste-sheet0.png",
 		"images/particlesagua.png",
@@ -87,6 +86,7 @@
 		"images/final-sheet0.png",
 		"images/enimiefinal-sheet0.png",
 		"images/sprite5-sheet0.png",
+		"images/conjuntodecadeadonoestilocartoon_-sheet0.png",
 		"media/click do mouse 2.ogg",
 		"media/musica do jogo.ogg",
 		"media/pingos de agua (caverna).ogg",
